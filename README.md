@@ -9,7 +9,9 @@ and cut them into separate files with a README listing every timestamp.
 This repository is the **download page and update channel**. It holds no
 source code; development happens in a private repository.
 
-### [⬇ Download the latest build](../../releases/latest)
+### [⬇ Download the latest build](../../releases)
+
+*(GitHub's "latest release" link only ever points at a full release, and everything before `v1.0.0` is a beta - so until then this goes to the releases list, newest first.)*
 
 | | |
 | --- | --- |
